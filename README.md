@@ -4,7 +4,8 @@ This repositority is for a part of [tutorial on Bayesian optimization](https://k
 
 ## Step 0: Checking your computer OS and its configuration
 
-We recommend running this tutorial on Linux (e.g., Ubuntu) with Python 3.x.
+We recommend running this tutorial on Linux (e.g., Ubuntu),
+and we require Python 3.x.
 
 ## Step 1: Cloning this repository
 
@@ -32,6 +33,16 @@ $ pip install -r requirements.txt
 ```
 
 It will install [BayesO](http://bayeso.org) hosted in [the GitHub repository](https://github.com/jungtaekkim/bayeso).
+
+## Step 3: Open an code editor
+
+You can use any editor you prefer.
+We have already installed `jupyter` in the step commanded above,
+so we are going to use `jupyter`.
+
+```shell
+$ jupyter notebook
+```
 
 ## Contact
 * Jungtaek Kim: [jtkim@postech.ac.kr](mailto:jtkim@postech.ac.kr)
