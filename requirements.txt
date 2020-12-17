@@ -1,0 +1,6 @@
+bayeso
+bayeso-benchmarks
+matplotlib
+jupyter
+xgboost
+scikit-learn
